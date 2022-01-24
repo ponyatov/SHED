@@ -1,4 +1,4 @@
-#  SHED
+#  ![logo](doc/logo.png) SHED
 ## Personal Planning System /Android/
 
 (c) Dmitry Ponyatov <<dponyatov@gmail.com>> 2020 All rights reserved

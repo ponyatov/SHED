@@ -105,6 +105,7 @@ dev:
 	git checkout $@
 	git pull -v
 	git checkout $(SHADOW) -- $(MERGE)
+	$(MAKE) doxy && git add -f docs
 
 .PHONY: release
 release:
